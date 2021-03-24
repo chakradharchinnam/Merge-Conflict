@@ -1,2 +1,2 @@
-Hi this is vicky's merge conflict test file.
+Hi this is chinnam's merge conflict test file.
 thankyou
